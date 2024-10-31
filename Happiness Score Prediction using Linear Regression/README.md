@@ -8,3 +8,4 @@ The goals of this project:
 * to show the the distribution of countries in the happiest and unhappiest 25th percentiles by continent using a pie chart
 * to calculate the correlations between the indicators
 * to build linear regression models from scratch and with scikit-learn to predict the happiness score of countries based on the indicators measured
+* to evaluate the performance of the models by calculating the mean squared errors after finding the optimal learning rates.
